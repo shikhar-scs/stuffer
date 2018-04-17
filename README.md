@@ -18,6 +18,14 @@ Stuffer keeps track of all item's location stored in its database. When activate
 
 Multiple edge cases would occur in the implementation of such a Skill. However, all these cases have been taken care of
 
+## Links to the skill Store: (Click on Enable and start using it on your Echo Based Device)
+
+  - Stuffer (US): https://rebrand.ly/stufferUS
+  - Stuffer (INDIA): https://rebrand.ly/stufferIndia
+  - Stuffer (AUS): https://rebrand.ly/stufferAus
+  - Stuffer (UK): https://rebrand.ly/stufferUK
+  - Stuffer (CANADA): https://rebrand.ly/stufferCan
+
 ## Developers 
 
 Made with :heart: by :
